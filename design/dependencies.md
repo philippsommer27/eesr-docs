@@ -10,4 +10,4 @@ The table below shows the version of the dependencies for each release.
 
 | EESR Version | Domonic                                            | Plotly                                          | JSON Schema (draft version)                                         |
 | ------------ | -------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------- |
-| 0.0.1        | [0.9.10](https://pypi.org/project/domonic/0.9.10/) | [5.8.2](https://pypi.org/project/plotly/5.8.2/) | [2020-12](https://json-schema.org/draft/2020-12/release-notes.html) |
+| 0.0.1/0.05   | [0.9.10](https://pypi.org/project/domonic/0.9.10/) | [5.8.2](https://pypi.org/project/plotly/5.8.2/) | [2020-12](https://json-schema.org/draft/2020-12/release-notes.html) |

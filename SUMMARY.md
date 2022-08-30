@@ -1,13 +1,13 @@
 # Table of contents
 
 * [What is EESR?](README.md)
-* [Features](features.md)
 
 ## Guide
 
 * [Quick Start](guide/quick-start.md)
-* [Command Line Interface](guide/command-line-interface.md)
-* [Package Interface](guide/package-interface.md)
+* [API](guide/api/README.md)
+  * [Grid Analysis](guide/api/grid-analysis.md)
+  * [Reporting](guide/api/reporting.md)
 * [OpenDC](guide/opendc.md)
 
 ## Library
@@ -17,11 +17,11 @@
   * [⚡ TUE](library/metrics/tue.md)
   * [⚡ DCeP Proxies](library/metrics/dcep-proxies.md)
   * [🌿 GEC](library/metrics/gec.md)
-  * [🌿 NeNr](library/metrics/nenr.md)
   * [🌿 APCr](library/metrics/apcr.md)
   * [🌿 CUE](library/metrics/cue.md)
-  * [🌿 ERE](library/metrics/ere.md)
+  * [🌿 ERF](library/metrics/erf.md)
   * [🌿 Total CO2](library/metrics/total-co2.md)
+  * [🌿 NeNr](library/metrics/nenr.md)
   * [WUE](library/metrics/wue.md)
   * [CADE](library/metrics/cade.md)
   * [DPPE](library/metrics/dppe.md)
@@ -34,8 +34,8 @@
   * [Efficiency (0.1)](library/reporting-profiles/efficiency-0.1.md)
   * [Sustainability (0.1)](library/reporting-profiles/sustainability-0.1.md)
 * [Report Templates](library/report-templates/README.md)
+  * [Compact](library/report-templates/compact.md)
   * [Standard](library/report-templates/standard.md)
-  * [Dashboard](library/report-templates/dashboard.md)
 
 ## Design
 

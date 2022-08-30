@@ -1,9 +1,5 @@
 # OpenDC
 
-{% hint style="warning" %}
-This page is a work in progress.
-{% endhint %}
+EESR is expected to be used with OpenDC as a source trace. We implement a basic `ComputeMonitor` called [`EEWriter`](https://github.com/philippsommer27/opendc/blob/master/opendc-experiments/opendc-experiments-ees/src/main/kotlin/writer/EEWriter.kt) which records the IT energy usage of a simulated data center as an example of how this can be achieved. The writer records the energy usage of each host, which is then aggregated in the EESR OpenDC preprocessing stage.
 
-EESR is directly integrated into OpenDC allowing you to automatically produce reports at the end of experiments.&#x20;
-
-OpenDC interacts with EESR through the [Chaqoupy ](https://chaquo.com/chaquopy/doc/current/index.html)library which allows you to [use a python package](https://chaquo.com/chaquopy/doc/current/android.html#android-requirements) with java/kotlin.
+As a long term goal we plan to migrate the functionalities of EESR directly into OpenDC.

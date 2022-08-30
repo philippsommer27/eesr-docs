@@ -3,7 +3,7 @@
 Power Usage Effectiveness (PUE) was proposed by [The Green Grid](https://www.thegreengrid.org/) in 2007 in an effort promote a better understanding of energy use in data centers. PUE provides high level insight into how much of the total energy provisioned to the facility is used in the IT equipment for productivity. &#x20;
 
 {% hint style="info" %}
-In contrary to its name, PUE is actually a measure of [energy rather than power](https://ctlsys.com/support/energy\_kwh\_vs-\_power\_kw/).
+Contrary to its name, PUE is actually a measure of [energy rather than power](https://ctlsys.com/support/energy\_kwh\_vs-\_power\_kw/).
 {% endhint %}
 
 <details>

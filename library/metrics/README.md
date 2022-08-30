@@ -21,3 +21,5 @@ One of the key [principles ](../../design/principles.md)of EESR is that there is
 Geography can play a tremendous role on the energy use and efficiency of a data center. To prevent misleading results, most metrics are most valid when measured throughout a full year as to account for seasonal variations of climate, energy production, and load variation.
 
 #### Measurement Point
+
+It is recommended that measuring is done as close to the boundary of the definition of the metric. For instance, when measuring IT power consumption, it is best to measure the power consumption of the compute components in each server as opposed to electricity entering the server room.

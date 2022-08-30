@@ -22,8 +22,6 @@ Industry Measure: Netherlands ([DDA 2020](https://www.dutchdatacenters.nl/en/pos
 
 ## Evaluation
 
-Interpretation for GEC is self explanatory and does not lead to misinterpretation as long as correctly measured by data center.&#x20;
-
 ## Improvement Strategies
 
 ## Sources
